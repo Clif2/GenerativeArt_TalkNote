@@ -1,0 +1,1 @@
+# GenerativeArt_TalkNote

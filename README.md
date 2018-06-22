@@ -18,9 +18,9 @@ Play around with setting in sketch.js to see what you can come up with
 5. Explore
 
 #### Flow Field 
-![]https://github.com/Clif2/GenerativeArt_TalkNote/blob/master/flowfield.gif
+![](https://github.com/Clif2/GenerativeArt_TalkNote/blob/master/flowfield.gif)
 
 #### With Particles 
-![]https://github.com/Clif2/GenerativeArt_TalkNote/blob/master/fieldwithparticles.gif
+![](https://github.com/Clif2/GenerativeArt_TalkNote/blob/master/fieldwithparticles.gif)
 
 ## My sketchs 
